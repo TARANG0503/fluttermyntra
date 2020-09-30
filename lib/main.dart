@@ -41,7 +41,6 @@ import 'package:flutter/material.dart';
               ],),
 
             decoration: BoxDecoration(
-              color:Colors.purple[400]
             ),
             ),
               ListTile()
